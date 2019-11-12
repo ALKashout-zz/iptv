@@ -4,7 +4,7 @@ https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist_b2000000.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9O9QBp.png" group-title="General",Syria Drama
 http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama-audio_20000=160000-video=1587600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lY7iOcK.png" group-title="General",Lana TV
-https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/APV1TUp.png" group-title="General",Souria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1,MTV Lebanon
